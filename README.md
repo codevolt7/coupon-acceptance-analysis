@@ -1,4 +1,4 @@
-# coupon-acceptance-analysis : Will the Customer Accept the Coupon?
+# Coupon Acceptance Analysis : Will the Customer Accept the Coupon?
 
 ## Summary
 
