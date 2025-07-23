@@ -1,6 +1,6 @@
 # coupon-acceptance-analysis : Will the Customer Accept the Coupon?
 
-## 📌 Summary
+## Summary
 
 This project explores consumer behavior based on various types of coupons offered during driving scenarios (e.g., Bar, Coffee House, Restaurant). The analysis focuses on identifying key features that influence whether a customer will accept a **Bar coupon**, and independently investigates characteristics of those who accept **other coupon types**.
 
@@ -15,7 +15,7 @@ This project explores consumer behavior based on various types of coupons offere
 This suggests a strong social and lifestyle influence—bar coupon acceptance is highest among **young, socially active individuals** without dependents.
 
 
-## 📊 Visualizations
+## Visualizations
 
 Visualizations were created to explore coupon usage patterns and user demographics:
 - Distribution of Coupon Types
